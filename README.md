@@ -1,2 +1,3 @@
 # mycollege-demo
-this is demo project for apna college student
+this is demo project for mycollege student.
+Author - Shaikh Imran
